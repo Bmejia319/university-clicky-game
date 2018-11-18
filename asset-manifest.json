@@ -1,13 +1,13 @@
 {
-  "main.css": "/university-clicky-game/static/css/main.865b70d1.chunk.css",
-  "main.js": "/university-clicky-game/static/js/main.86b48b4e.chunk.js",
-  "main.js.map": "/university-clicky-game/static/js/main.86b48b4e.chunk.js.map",
-  "static/js/1.8fdf2345.chunk.js": "/university-clicky-game/static/js/1.8fdf2345.chunk.js",
-  "static/js/1.8fdf2345.chunk.js.map": "/university-clicky-game/static/js/1.8fdf2345.chunk.js.map",
-  "runtime~main.js": "/university-clicky-game/static/js/runtime~main.49b538a8.js",
-  "runtime~main.js.map": "/university-clicky-game/static/js/runtime~main.49b538a8.js.map",
-  "static/css/main.865b70d1.chunk.css.map": "/university-clicky-game/static/css/main.865b70d1.chunk.css.map",
-  "index.html": "/university-clicky-game/index.html",
-  "precache-manifest.095dc2a66f085510f1f938d005ec87f9.js": "/university-clicky-game/precache-manifest.095dc2a66f085510f1f938d005ec87f9.js",
-  "service-worker.js": "/university-clicky-game/service-worker.js"
+  "main.css": "/university-game/static/css/main.865b70d1.chunk.css",
+  "main.js": "/university-game/static/js/main.86b48b4e.chunk.js",
+  "main.js.map": "/university-game/static/js/main.86b48b4e.chunk.js.map",
+  "static/js/1.8fdf2345.chunk.js": "/university-game/static/js/1.8fdf2345.chunk.js",
+  "static/js/1.8fdf2345.chunk.js.map": "/university-game/static/js/1.8fdf2345.chunk.js.map",
+  "runtime~main.js": "/university-game/static/js/runtime~main.a305ac78.js",
+  "runtime~main.js.map": "/university-game/static/js/runtime~main.a305ac78.js.map",
+  "static/css/main.865b70d1.chunk.css.map": "/university-game/static/css/main.865b70d1.chunk.css.map",
+  "index.html": "/university-game/index.html",
+  "precache-manifest.462b5cf242500835b3d17a1b69c95763.js": "/university-game/precache-manifest.462b5cf242500835b3d17a1b69c95763.js",
+  "service-worker.js": "/university-game/service-worker.js"
 }
