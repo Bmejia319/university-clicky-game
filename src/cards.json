@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Princeton",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Princeton_Tigers_logo.svg/1200px-Princeton_Tigers_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Harvard",
+    "image": "https://www.harvard.edu/sites/default/files/user13/harvard_shield_wreath.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Dartmouth",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dartmouth_College_shield.svg/180px-Dartmouth_College_shield.svg.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Brown",
+    "image": "https://static1.squarespace.com/static/5717ee8e1bbee08525c09f91/t/576f05f0ebbd1a12c9ecb695/1466893812841/",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "UPenn",
+    "image": "https://www.vpul.upenn.edu/careerservices/files/Penn_Quakers_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Columbia University",
+    "image": "https://static1.squarespace.com/static/5717ee8e1bbee08525c09f91/t/576ef9b1414fb5ee34176fcf/1466890676923/",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Cornel University",
+    "image": "https://i.pinimg.com/originals/ce/a1/99/cea1991b502f3eae019cb7d423acdeab.gif",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Northwestern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/1200px-Northwestern_University_seal.svg.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Stanford",
+    "image": "https://adc3ef35f321fe6e725a-fb8aac3b3bf42afe824f73b606f0aa4c.ssl.cf1.rackcdn.com/tenantlogos/9462.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "MIT",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/1200px-MIT_Seal.svg.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Yale_Bulldogs_logo.svg/1200px-Yale_Bulldogs_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Notre Dame",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/1200px-Notre_Dame_Fighting_Irish_logo.svg.png",
+    "count": 0
+  }
+]
